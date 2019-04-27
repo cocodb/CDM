@@ -1,2 +1,2 @@
 # CDM
-Coco Database Middleware
+MySQL 数据库中间件
