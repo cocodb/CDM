@@ -32,7 +32,7 @@ import io.cdm.sqlengine.EngineCtx;
 import io.cdm.sqlengine.SQLJobHandler;
 import io.cdm.sqlengine.mpp.ColMeta;
 import io.cdm.sqlengine.mpp.OrderCol;
-import io.cdm.sqlengine.mpp.tmp.RowDataSorter;
+import io.cdm.sqlengine.mpp.sorter.RowDataSorter;
 import io.cdm.util.ByteUtil;
 import io.cdm.util.ResultSetUtil;
 /**  

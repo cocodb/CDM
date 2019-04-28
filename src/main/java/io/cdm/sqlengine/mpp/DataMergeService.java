@@ -32,7 +32,7 @@ import io.cdm.net.mysql.RowDataPacket;
 import io.cdm.route.RouteResultset;
 import io.cdm.route.RouteResultsetNode;
 import io.cdm.server.ServerConnection;
-import io.cdm.sqlengine.mpp.tmp.RowDataSorter;
+import io.cdm.sqlengine.mpp.sorter.RowDataSorter;
 import io.cdm.util.StringUtil;
 
 import org.apache.log4j.Logger;

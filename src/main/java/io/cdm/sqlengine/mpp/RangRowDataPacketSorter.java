@@ -24,7 +24,7 @@
 package io.cdm.sqlengine.mpp;
 
 import io.cdm.net.mysql.RowDataPacket;
-import io.cdm.sqlengine.mpp.tmp.RowDataSorter;
+import io.cdm.sqlengine.mpp.sorter.RowDataSorter;
 
 
 public class RangRowDataPacketSorter extends RowDataSorter {
